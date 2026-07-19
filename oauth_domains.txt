@@ -1,0 +1,4 @@
+# OAuth domains file
+# Note: OAuth app filtering requires browser-based access due to Cloudflare protection
+# The ChatGPT API endpoint returns a Cloudflare challenge page when accessed via curl/requests
+# To complete this task, use a browser with valid authentication cookies

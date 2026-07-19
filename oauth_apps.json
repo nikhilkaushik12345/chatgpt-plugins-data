@@ -1,0 +1,7 @@
+{
+  "note": "OAuth app filtering requires browser-based access due to Cloudflare protection on the ChatGPT API endpoint. The endpoint returns a Cloudflare challenge page when accessed via curl/requests library.",
+  "status": "pending_browser_access",
+  "total_asdk_apps_checked": 2039,
+  "oauth_apps_found": 0,
+  "apps": []
+}

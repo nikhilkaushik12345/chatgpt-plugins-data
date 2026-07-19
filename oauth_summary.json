@@ -1,0 +1,11 @@
+{
+  "status": "pending_browser_access",
+  "note": "OAuth filtering requires browser-based access due to Cloudflare protection",
+  "total_asdk_apps": 2039,
+  "oauth_apps_found": 0,
+  "unique_domains": 0,
+  "domains": [],
+  "api_endpoint": "https://chatgpt.com/backend-api/apps/content?detail=full&platform=chat&locale=en-US",
+  "issue": "Cloudflare challenge page returned - requires browser with valid session cookies",
+  "recommendation": "Use Selenium/Playwright with browser automation to fetch OAuth app details"
+}
